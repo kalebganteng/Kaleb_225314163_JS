@@ -1,0 +1,1 @@
+document.getElementById("nama").innerHTML = "Mata Kuliah Pemogramanan Platform External";
